@@ -9,7 +9,7 @@ This code is for a mouse jiggler that can run on a Raspberry Pi Pico using Circu
 * CircuitPython 8.x [link](https://circuitpython.org/board/raspberry_pi_pico/)
 * USB cable to connect the Raspberry Pi Pico to your computer
 * Text editor, such as Mu or VSCode
-* Installing Required Libraries
+* Installing Required Libraries - [adafruit_hid](https://github.com/adafruit/Adafruit_CircuitPython_HID/releases/tag/5.3.3)
 
 To use the usb_hid and adafruit_hid.mouse libraries, you need to install them on your Raspberry Pi Pico. You can do this by connecting the Pico to your computer, navigating to the lib directory and copying the required libraries to it.
 
