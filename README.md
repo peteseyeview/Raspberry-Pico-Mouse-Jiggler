@@ -16,7 +16,7 @@ To use the usb_hid and adafruit_hid.mouse libraries, you need to install them on
 ## Running the Code
 
 Connect the Raspberry Pi Pico to your computer using the USB cable.
-Open your text editor and create a new file named main.py.
+Open your text editor and create a new file named code.py.
 Copy the following code into the file and save it.
 ```
 import time
